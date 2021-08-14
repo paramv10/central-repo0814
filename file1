@@ -1,18 +1,5 @@
-
-
-
-
-hello
-
-
 echo "hello"
--------------end of code ---
 
-
-
-hi hello 
-
-how are you 
 
 --- code A-----
 
@@ -22,3 +9,14 @@ writting the new logic which just recalled
 
 
 ...finished code A...
+
+now  I am writting code B
+{
+fi ()
+do this..
+
+else 
+do this...
+
+return 0;
+
